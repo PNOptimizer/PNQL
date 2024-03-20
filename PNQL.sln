@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ql", "ql\ql.csproj", "{D49CDE84-CAC6-4924-B20F-983734219F60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNQL", "PNQL\PNQL.csproj", "{B175B6BD-BE8C-4D1B-8C31-8D37D5175E25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D49CDE84-CAC6-4924-B20F-983734219F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D49CDE84-CAC6-4924-B20F-983734219F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D49CDE84-CAC6-4924-B20F-983734219F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D49CDE84-CAC6-4924-B20F-983734219F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B175B6BD-BE8C-4D1B-8C31-8D37D5175E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B175B6BD-BE8C-4D1B-8C31-8D37D5175E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B175B6BD-BE8C-4D1B-8C31-8D37D5175E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B175B6BD-BE8C-4D1B-8C31-8D37D5175E25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {84B39C70-920C-4AC2-893E-BEB14F289B5F}
+		SolutionGuid = {128B0504-4736-4F93-BD90-DE66D03E216D}
 	EndGlobalSection
 EndGlobal

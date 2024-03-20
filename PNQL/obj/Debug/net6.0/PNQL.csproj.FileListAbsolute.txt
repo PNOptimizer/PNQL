@@ -1,0 +1,15 @@
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\bin\Debug\net6.0\PNQL.exe
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\bin\Debug\net6.0\PNQL.deps.json
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\bin\Debug\net6.0\PNQL.runtimeconfig.json
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\bin\Debug\net6.0\PNQL.dll
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\bin\Debug\net6.0\PNQL.pdb
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.csproj.AssemblyReference.cache
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.AssemblyInfoInputs.cache
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.AssemblyInfo.cs
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.csproj.CoreCompileInputs.cache
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.dll
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\refint\PNQL.dll
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.pdb
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\PNQL.genruntimeconfig.cache
+C:\Users\Mayu\OneDrive\code\PNQL\PNQL\obj\Debug\net6.0\ref\PNQL.dll
