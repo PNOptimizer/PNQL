@@ -1,4 +1,4 @@
-# PNQL  Petri-net-based Q-learning Scheduling Method
+# PNQL：Petri-net-based Q-learning Scheduling Method
 
 This repository contains the code for our novel **Petri-net-based Q-learning (PNQL)** scheduling method, designed for efficient scheduling of **Robotic Cellular Manufacturing (RCM)** systems. Our approach leverages **generalized and place-timed Petri nets** to model RCM systems effectively, capturing essential system characteristics such as conflict, concurrency, and synchronization.
 
