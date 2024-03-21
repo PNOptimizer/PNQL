@@ -1,10 +1,18 @@
 # PNQL：Petri-net-based Q-learning Scheduling Method
 
-This repository contains the code for our novel **Petri-net-based Q-learning (PNQL)** scheduling method, designed for efficient scheduling of **Robotic Cellular Manufacturing (RCM)** systems. Our approach leverages **generalized and place-timed Petri nets** to model RCM systems effectively, capturing essential system characteristics such as conflict, concurrency, and synchronization.
+This repository contains the code for our novel **Petri-net-based Q-learning (PNQL)** scheduling method, designed for efficiently scheduling of **Robotic Cellular Manufacturing (RCM)** systems. Our approach leverages **generalized and place-timed Petri nets** to model RCM systems effectively, capturing essential system characteristics such as conflict, concurrency, and synchronization.
+
+For details on the code, please refer to our book and papers below.
+
+Bo Huang, MengChu Zhou. Supervisory Control and Scheduling of Resource Allocation Systems. Hoboken, NJ, USA: John Wiley & Sons (IEEE-Wiley), July 2020.
+
+Bo Huang, MengChu Zhou, XiaoYu Sean Lu, and Abdullah Abusorrah. Scheduling of Resource Allocation Systems with Timed Petri Nets: A Survey. ACM Computing Surveys, Feb. 2023, 55(11): 1-27.
+
+ZhuTao Yao, Bo Huang, JianYong Lv, and XiaoYu Lu. Scheduling of Robotic Cellular Manufacturing Systems with Timed Petri Nets and Reinforcement Learning. IROS 2024, submitted.
 
 ## Methodology
 
-We propose a reinforcement learning strategy employing a sparse Q-table to assess state-transition pairs within the net's reachability graph. The method utilizes the negative transition firing time as a reward signal for action selection and imposes a substantial penalty for deadlock occurrences. To balance exploration and exploitation, we implement a dynamic $\epsilon$-greedy policy that updates state values with an accumulative reward. Three distinct dynamic $\epsilon$-greedy policies cater to various application scenarios, making PNQL a effective solution for RCM system scheduling.
+We propose a reinforcement learning strategy employing a sparse Q-table to assess state-transition pairs within the net's reachability graph. The method utilizes the negative transition firing time as a reward signal for action selection and imposes a substantial penalty for deadlock occurrences. To balance exploration and exploitation, we implement a dynamic $\epsilon$-greedy policy that updates state values with an accumulative reward. Three distinct dynamic $\epsilon$-greedy policies cater to various application scenarios, making PNQL an effective solution for RCM system scheduling.
 
 ## Performance
 
